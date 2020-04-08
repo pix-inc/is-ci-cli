@@ -9,6 +9,9 @@
     "node": ">=8"
   },
   "scripts": {},
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pix-inc/is-ci-cli.git"
