@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/pix-inc/is-ci-cli#readme",
   "dependencies": {
-    "ci-info": "git+https://github.com/watson/ci-info.git#f43f6a1cefff47fb361c88cf4b943fdbcaafe540"
+    "ci-info": "git+https://github.com/watson/ci-info.git#f43f6a1cefff47fb361c88cf4b943fdbcaafe540",
+    "cross-spawn": "^7.0.2"
   }
 }
