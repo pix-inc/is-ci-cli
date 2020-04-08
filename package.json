@@ -1,5 +1,5 @@
 {
-  "name": "is-ci-cli",
+  "name": "@pix-inc/is-ci-cli",
   "version": "1.0.0",
   "description": "Run different npm scripts in a CI environment",
   "bin": {
